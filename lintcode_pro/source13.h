@@ -12,7 +12,7 @@ using namespace std;
     KMP算法实现空间复杂度   时间复杂度O(m+n)，空间复杂度O(n)
     见链接： http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html
 
-    demo测试示例：给i他
+    demo测试示例：
         Solution13 sol;
         string source = "ABABCDDBCA";
         string target = "DDB";
